@@ -1,5 +1,6 @@
 body{
-  background-color: aqua;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+
 }
 
 .wetherBg{
@@ -29,6 +30,8 @@ body{
 
 #show{
   background-color: lightgray;
+  width: 500px;
+  margin: auto;
 }
 
 .weathorCity{
